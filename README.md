@@ -3,27 +3,27 @@ I’m currently working on React projects like Login UI, Routing Apps and UI Com
 
 
 ##  Socials:
-[LinkedIn](https://www.linkedin.com/in/chetna-ambe-78562b286/) [Gmail](https://mail.google.com/mail/?view=cm&to=chetnaambe75@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chetna-ambe-78562b286/)      [Gmail](https://mail.google.com/mail/?view=cm&to=chetnaambe75@gmail.com)
 
 
 #  Tech Stack:
 
-# **LANGUAGES**
+# LANGUAGES
  - HTML5
  - CSS3
  - JAVASCRIEPT
    
-# **FRAMEWORKS & LIBRARIES**
+# FRAMEWORKS & LIBRARIES
 - Netlify
 - Vercel
 - GitHub Pages
 
-# **TOOLS & TECHNOLOGIES**
+# TOOLS & TECHNOLOGIES
 - Git & GitHub
 - VS Code
 - Chrome DevTools
 
-# **OTHER SKILLS**
+# OTHER SKILLS
 - Responsive Web Design
 - API Integration (REST APIs)
 - Basic UI/UX understanding
