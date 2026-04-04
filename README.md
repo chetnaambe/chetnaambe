@@ -8,16 +8,27 @@ I’m currently working on React projects like Login UI, Routing Apps and UI Com
 
 # 💻 Tech Stack:
 
+###**LANGUAGES**
+ - HTML5
+ - CSS3
+ - JAVASCRIEPT
+   
+###**FRAMEWORKS & LIBRARIES**
+- Netlify
+- Vercel
+- GitHub Pages
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+###**TOOLS & TECHNOLOGIES**
+- Git & GitHub
+- VS Code
+- Chrome DevTools
+
+###**OTHER SKILLS**
+- Responsive Web Design
+- API Integration (REST APIs)
+- Basic UI/UX understanding
 
 
----
-[![](https://visitcount.itsvg.in/api?id=chetnaambe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
