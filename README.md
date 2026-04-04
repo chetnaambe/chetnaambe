@@ -1,5 +1,11 @@
 #  About Me:
-I’m currently working on React projects like Login UI, Routing Apps and UI Components<br> I’m looking to collaborate on Frontend projects built with React and JavaScript<br> I’m looking for help with Improving React concepts and building real-world projects<br> I’m currently learning React, Tailwind CSS and Data Structures & Algorithms<br> Ask me about HTML, CSS, JavaScript, React and basic frontend development<br> Fun fact I enjoy turning UI designs into responsive web pages
+
+- Currently building real-world frontend projects using React (Login UI, Routing Apps, Reusable UI Components)
+- Open to collaborating on React and JavaScript-based frontend projects
+- Actively improving my React skills and working on practical, real-world applications
+- Learning React, Tailwind CSS, and Data Structures & Algorithms
+- Strong foundation in HTML, CSS, JavaScript, and React
+- Passionate about converting UI designs into responsive and user-friendly web applications
 
 
 ##  Socials:
@@ -30,12 +36,3 @@ I’m currently working on React projects like Login UI, Routing Apps and UI Com
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chetnaambe&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=chetnaambe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
