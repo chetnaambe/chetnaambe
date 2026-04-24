@@ -20,6 +20,7 @@
  - JAVASCRIEPT
    
 # FRAMEWORKS & LIBRARIES
+- React.Js
 - Netlify
 - Vercel
 - GitHub Pages
@@ -28,7 +29,8 @@
 - Git & GitHub
 - VS Code
 - Chrome DevTools
-
+- Hoppscotch APi Test Tool
+  
 # OTHER SKILLS
 - Responsive Web Design
 - API Integration (REST APIs)
